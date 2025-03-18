@@ -11,29 +11,35 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 </ul>
 
 
-
-
 ### Passos para instalar
 
 📥 Clone este repositório:
 
+``
 git clone <URL_DO_REPOSITORIO>
+``
 
 📂 Acesse a pasta do projeto:
 
+``
 cd jokenpo
+``
 
 📌 Instale as dependências:
 
+``
 npm install
+``
 
 ## ▶️ Como Rodar o Projeto
 
 🏁 Para iniciar o projeto, execute:
 
+``
 npx expo start
+``
 
-Isso abrirá o Expo Developer Tools no navegador. 🌐
+Isso abrirá o Expo Developer Tools no navegador (clicando na letra w). 🌐
 
 📱 Para testar no celular:
 
@@ -49,9 +55,10 @@ Para iOS, utilize o Xcode Simulator.
 
 ## 🛠️ Tecnologias Utilizadas
 
-⚛️ React Native
-
-🚀 Expo
+<ul>
+  <li>⚛️ React Native</li>
+  <li>🚀 Expo</li>
+</ul>
 
 ## 📜 Licença
 
